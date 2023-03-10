@@ -1,2 +1,2 @@
-# learning-log
-Django project in Python Crash Course book
+# Learning Log
+Django project in the Python Crash Course book.
